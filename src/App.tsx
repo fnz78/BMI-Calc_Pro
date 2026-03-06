@@ -5,6 +5,7 @@
 
 import { AnimatePresence, motion } from 'motion/react';
 import { useEffect, useState } from 'react';
+import { Analytics } from '@vercel/analytics/react';
 import { History } from './components/History';
 import { InputGroup } from './components/InputGroup';
 import { Meter } from './components/Meter';
@@ -241,6 +242,7 @@ export default function App() {
           </div>
         </div>
       </div>
+      <Analytics />
     </div>
   );
 }
