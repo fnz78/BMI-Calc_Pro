@@ -1,5 +1,6 @@
 # BMI Calculator Pro
 
+
 A professional-grade, responsive Body Mass Index (BMI) calculator built with React, TypeScript, and Tailwind CSS. This application provides instant health insights, visual data representation, and historical tracking in a modern, user-friendly interface.
 
 
