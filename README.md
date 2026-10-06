@@ -3,7 +3,6 @@
 A professional-grade, responsive Body Mass Index (BMI) calculator built with React, TypeScript, and Tailwind CSS. This application provides instant health insights, visual data representation, and historical tracking in a modern, user-friendly interface.
 
 
-
 ## 🚀 Features
 
 -   **Dual Unit Support**: Seamlessly toggle between Metric (cm/kg) and Imperial (ft+in/lbs) systems.
